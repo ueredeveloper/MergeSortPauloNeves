@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//primeiro commit
+
 int main(void) {
  
 int V [8] = {96, 34, 2, 17, 23, 16, 56, 43};
